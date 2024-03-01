@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "papaparse": "^5.4.1",
+    "validator": "^13.11.0"
+  }
+}
